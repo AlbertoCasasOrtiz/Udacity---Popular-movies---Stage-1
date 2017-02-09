@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="sort_popular">Sort popular</string>
+    <string name="sort_top_rated">Sort top rated</string>
+    <string name="error_connection">Failed to get results, try again please.</string>
+</resources>
